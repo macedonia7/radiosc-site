@@ -14,9 +14,11 @@ Ray Mustafa, WA2NBG, Tower Site Admin, Testing
 
 Rick Waterfield, N1RCW, AllStar Developer and Admin
 
-Chip Swett, KB1QU, Hilton Head Island Group Admin, Net Manager
+Chip Swett, KB1QU, Hilton Head Island Group Admin & Facilitator, Net Manager
 
-Mike Abbott, Sumter, SC D-STAR Admin (W4GL)
+Mike Abbott, KK4MA, Sumter Tower Site Admin (W4GL)
+
+Eddie King, N4HEK, Hilton Head Island/Bluffton Tower Site Admin
 
 
 

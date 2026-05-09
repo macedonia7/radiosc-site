@@ -26,7 +26,7 @@ The RadioSC Multimode System provides a high-performance digital gateway for Ama
 
 Our mission is to maintain a robust, 24/7 infrastructure that supports the South Carolina Lowcountry. Whether you are using an Icom D-STAR rig, a MMDVM hotspot, or a mobile phone on Echolink, RadioSC brings us all into one room. 
 
-See key features and more in [about](/about/).
+See key features and more in [About](/about/).
 
 
 
