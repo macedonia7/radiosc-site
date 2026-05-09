@@ -1,0 +1,91 @@
+baseURL: ""
+locale: en-us
+title: RadioSC
+theme: ["PaperMod"]
+
+params: 
+  LinkFullImages: true
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowPageNums: true
+  ShowToc: true
+  defaultTheme: dark
+  disableThemeToggle: false
+  ShowAllPagesInArchive: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+
+#  profileMode:
+#    enabled: true
+#    title: "Your Name"
+#    subtitle: "Developer & Writer"
+#    imageUrl: "/images/radiosc.png" # Place image in static folder
+#    imageWidth: 120
+#    imageHeight: 120
+#    buttons:
+#      - name: "Blog"
+#        url: "/posts/"
+#      - name: "About"
+#        url: "/about/"   
+
+#  socialIcons:
+#    - name: Discord
+#      title: Join RadioSC Discord community
+#      url: "https://discord.gg/cP6P4y2w6"
+
+#  homeInfoParams:
+#    Title: "Welcome to the RadioSC Multimode System"
+#    Content: "Connect to the World Digitally & Via Local RF. Our RadioSC mission is to provide D-STAR repeaters with a gateway to multimode digital transcoding protocols for Amateur Radio Operators in the South Carolina Lowcountry, Carolina's and beyond.  We maintain the URF517 univeral reflector with hardware capabilities to transcode to and from all Amateur Radio digital modes and allow linking to Allstar and Echolink nodes and analog repeaters and the a M17 Reflector  We provide mentoring, a knowledge base, and support to all Amateur Radio Operators wishing to explore the digital modes. Select the Discord icon below to join our RadioSC Discord Server."  
+
+#  mainSections:
+#    - blog
+#    - posts
+#    - articles  
+
+security:
+  enableInlineShortcodes: true
+
+menu:
+  main:
+      - identifier: categories
+        name: Categories
+        url: /categories/
+        weight: 5
+      - identifier: tags
+        name: Tags
+        url: /tags/
+        weight: 20
+      - identifier: archives
+        name: Archives
+        url: /archives/
+        weight: 30
+      - identifier: search
+        name: Search
+        url: search/
+        weight: 40
+      - identifier: net
+        name: Nets
+        url: posts/nets/
+        weight: 45
+      - identifier: operating
+        name: Operating
+        url: operating/
+        weight: 50  
+      - identifier: about
+        name: About
+        url: about/
+        weight: 55
+      - identifier: contact
+        name: Contact
+        url: contact/
+        weight: 60  
+
+
+

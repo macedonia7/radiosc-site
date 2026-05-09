@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Connect on RadioSC</title>
+    <link>//localhost:1313/tags/connect/</link>
+    <description>Recent content in Connect on RadioSC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 May 2026 17:23:17 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/connect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Connecting to RadioSC</title>
+      <link>//localhost:1313/posts/how-to-connect/</link>
+      <pubDate>Wed, 06 May 2026 17:23:17 -0400</pubDate>
+      <guid>//localhost:1313/posts/how-to-connect/</guid>
+      <description>&lt;p&gt;There are multiple ways to connect to the RadioSC system including D-STAR and FM Repeaters, Echolink, Allstar, and many of the Amateur Radio digital modes including Yaesu System Fusion, D-STAR, DMR, and M17 via hotspots and other Internet-based means.&lt;/p&gt;
+&lt;h3 id=&#34;connect-via-repeaters&#34;&gt;Connect via Repeaters&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;KR4CHS, Awendaw, SC D-STAR 145.120 (-)&lt;/li&gt;
+&lt;li&gt;W4IAR Hilton Head Island/Bluffton Analog Repeater 442.675 (+), 100 Hz&lt;/li&gt;
+&lt;li&gt;W4GL Sumter, SC (linked for Nets)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;connect-with-digital-modes&#34;&gt;Connect with digital modes:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;D-STAR DCS517A or XRF517A&lt;/li&gt;
+&lt;li&gt;M17 URF517A&lt;/li&gt;
+&lt;li&gt;DMR XLX517A or Quadnet TG 517 or TGIF TG 517&lt;/li&gt;
+&lt;li&gt;YSF31001 - US - C4FM - QUADNT - YCS310, DG-ID 81 or FCS31081 - nn or YSF51700&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;connect-with-allstar-and-echolink&#34;&gt;Connect with Allstar and Echolink&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Allstar 273771&lt;/li&gt;
+&lt;li&gt;Echolink N4HEK-R&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
