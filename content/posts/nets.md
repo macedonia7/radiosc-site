@@ -10,15 +10,14 @@ cover:
 categories: ["Nets"]
 ---
 
+## Net Information
 
-### Here is the heading for the first post
+### Join us for our regular gatherings!
 
-And here is the post.
+- Digital Dog Net: Every Monday at 5:00 PM Eastern
+    
+- Salty Dog Digital Dog Net: Every Thursday at 5:00 PM Eastern
+    
+- Logging via [Ham.Live](https://ham.live)
 
-## a subheading on the post
-
-some text
-
-## and another subheading
-
-here is some text
+- Propagation Report & Lunch Net Checkin: Every Wednesday at 9:30 AM Eastern (no logging)

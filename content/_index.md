@@ -18,6 +18,15 @@ draft: false
 
 ## Welcome to the RadioSC Multimode System
 
-Connect to the World Digitally & Via Local RF. Our RadioSC mission is to provide D-STAR repeaters with a gateway to multimode digital transcoding protocols for Amateur Radio Operators in the South Carolina Lowcountry, Carolina's and beyond.  We maintain the URF517 univeral reflector with hardware capabilities to transcode to and from all Amateur Radio digital modes and allow linking to Allstar and Echolink nodes and analog repeaters and the a M17 Reflector  
+### Connecting the South Carolina Lowcountry and Beyond
+
+The RadioSC Multimode System provides a high-performance digital gateway for Amateur Radio operators. By utilizing the URF517 Universal Reflector, we enable seamless communication across disparate digital and analog networks.
+
+### Technical Mission
+
+Our mission is to maintain a robust, 24/7 infrastructure that supports the South Carolina Lowcountry. Whether you are using an Icom D-STAR rig, a MMDVM hotspot, or a mobile phone on Echolink, RadioSC brings us all into one room. 
+
+See key features and more in [about](/about/).
+
 
 

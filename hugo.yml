@@ -66,26 +66,26 @@ menu:
         name: Archives
         url: /archives/
         weight: 30
-      - identifier: search
-        name: Search
-        url: search/
-        weight: 40
       - identifier: net
         name: Nets
         url: posts/nets/
-        weight: 45
+        weight: 40
       - identifier: operating
         name: Operating
         url: operating/
-        weight: 50  
+        weight: 50   
+      - identifier: search
+        name: Search
+        url: search/
+        weight: 55
       - identifier: about
         name: About
         url: about/
-        weight: 55
+        weight: 60
       - identifier: contact
-        name: Contact
+        name: Team
         url: contact/
-        weight: 60  
+        weight: 65
 
 
 
