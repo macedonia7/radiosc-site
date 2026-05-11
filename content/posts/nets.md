@@ -4,7 +4,7 @@ draft: false
 title: "RadioSC Nets"
 tags: ["nets", "multimode"]
 cover:
-  image: images/URF517.png
+  image: images/digital-dog-net.jpeg
   alt: image with new post
   caption: RadioSC Nets
 categories: ["Nets"]

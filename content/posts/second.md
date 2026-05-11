@@ -6,7 +6,7 @@ tags: ["html", "css"]
 categories: ["tech", "M17"]
 ---
 
-# Here is the heading for the second post
+# Placeholder Here for the second post
 
 And here is the post.
 
