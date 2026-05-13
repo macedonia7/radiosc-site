@@ -16,7 +16,7 @@ categories: ["Nets"]
 
 - Digital Dog Net: Every Monday at 5:00 PM Eastern
     
-- Salty Dog Digital Dog Net: Every Thursday at 5:00 PM Eastern
+- [Salty Dog Digital Net](/articles/salty-dog-net/): Every Thursday at 5:00 PM Eastern
     
 - Logging via [Ham.Live](https://ham.live)
 

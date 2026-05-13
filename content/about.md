@@ -10,19 +10,19 @@ categories: ["Operating", "Multimode", "URF517"]
 
 ### Key Features
 
--   **Hardware Transcoding**: Our system uses dedicated hardware (AMBE/tcd) to ensure high-quality audio when moving between D-STAR (AMBE) and other modes.
+-   **Hardware Transcoding**: Our system uses dedicated hardware (DVMEGA DVStick 30) to ensure high-quality audio when moving between D-STAR (AMBE) and other modes.
     
--   **Universal Reflector (URF)**: Based on the modern `urfd` architecture, allowing A-Z module flexibility.
+-   **Universal Reflector (URF)**: Based on the modern `urfd` architecture, allowing A-Z module flexibility, up to 26 channels per reflector.
     
--   **Analog-Digital Bridge**: Direct integration with Allstar and Echolink ensures that legacy analog repeaters can participate in the digital conversation.
+-   **Analog-Digital Bridge**: Direct integration with Allstar and Echolink ensures that legacy analog repeaters and operators with their own Allstar devices can participate in the digital conversation.
     
 -   **M17 Support**: We are proud supporters of the M17 Project, offering a fully open-source digital path for hams who prefer non-proprietary protocols.
 
 ### Reflector
 
-The Hub of the RadioSC system is our Universal Reflector, [URF517](http://urf517.radiosc.net/).  URF517 uses the [2urfd Reflector software](https://github.com/n7tae/2urfd).
+The Hub of the RadioSC system is our Universal Reflector, [URF517](http://urf517.radiosc.net/).  URF517 runs the [2urfd Reflector software](https://github.com/n7tae/2urfd).
 
-URF517 has trancoders on Module/Channel A allowing D-STAR, YSF, DMR, and M17 to have QSOs (P25 and NXDN could also be activated if needed).  DMR and YSF can commuicate on other channels since they use the same CODEC (so a hardware transcoder is not required).
+URF517 has two trancoders on Module/Channel A, one for transmit and one for receive, allowing D-STAR, YSF, DMR, and M17 to have QSOs (P25 and NXDN could also be activated if needed).  DMR and YSF can commuicate on other channels since they use the same CODEC (so a hardware transcoder is not required).
 
 ### IcomGateway
 
@@ -34,7 +34,7 @@ Allstar provided connectivity for the 440 FM Repeater in Bluffton, SC as well as
 
 ### M17 Reflector
 
-Our [M17-517](https://m17-517.radiosc.net/) Reflector runs the [mrefd reflector software](https://github.com/n7tae/mrefd). 
+Our [M17-517](https://m17-517.radiosc.net/) Reflector, installed on a VPS, runs the [mrefd reflector software](https://github.com/n7tae/mrefd). 
 
 
 ## Some of our RadioSC Objectives
