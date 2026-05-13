@@ -38,7 +38,7 @@ There are at least four ways to connect to RadioSC via a DMR radio with a hotspo
 We currently have two D-STAR repeater in South Carolina capable of linking to our RadioSC Reflector.  There is at least one more on the way.
 
 1. KR5CHS, 145.120 (-), located in Awendaw, SC is fulltime linked to DCS517.  
-2. W4GL, 444.150+ PL123.0 D-Star/FM, located in Sumter, SC is linked to RadioSC for Nets.  Capable of linking to reflectors by operators.
+2. [W4GL](https://www.sumterhamradio.net/), 444.150+ PL123.0 D-Star/FM, located in Sumter, SC is linked to RadioSC for Nets.  Capable of linking to reflectors by operators.
 3. W4IR - Hilton Head Island, SC - Installation in progress.
 4. Other groups are welcome to join.  Please contact us via [Discord](https://discord.gg/aujUBDebb) 
 
