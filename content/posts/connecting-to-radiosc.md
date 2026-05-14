@@ -2,8 +2,8 @@
 date: '2026-05-14T09:40:12-04:00'
 draft: false
 title: 'Connecting to RadioSC'
-tags: ["connect", "multimode", "digital"]
-categories: ["Reflector"]
+tags: ["digital"]
+categories: ["Reflector", "Multimode", "Connect"]
 cover:
   image: images/dstar-repeater.png
   alt: D-STAR Repeater

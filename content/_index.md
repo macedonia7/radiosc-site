@@ -26,6 +26,19 @@ The RadioSC Multimode System provides a high-performance digital gateway for Ama
 
 Our mission is to maintain a robust, 24/7 infrastructure that supports the South Carolina Lowcountry. Whether you are using an Icom D-STAR rig, a MMDVM hotspot, or a mobile phone on Echolink, RadioSC brings us all into one room. 
 
+### Nets hosted on RadioSC
+
+#### ***Be sure to see our [Nets Page](nets/) for more information and graphics.***
+
+- Digital Dog Net: Every Monday at 5:00 PM Eastern
+    
+- Salty Dog Net: Every Thursday at 5:00 PM Eastern
+    
+- Logging via [Ham.Live](https://ham.live)
+
+- Propagation Report & Lunch Net Checkin: Every Wednesday at 9:30 AM Eastern (no logging)
+
+
 See key features and more in [About](/about/).
 
 
