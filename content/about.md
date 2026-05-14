@@ -2,7 +2,7 @@
 date: '2026-05-07T11:20:55-04:00'
 draft: false
 title: 'About'
-tags: ["operating", "multimode", "digital"]
+tags: ["digital"]
 categories: ["Operating", "Multimode", "URF517"]
 ---
 

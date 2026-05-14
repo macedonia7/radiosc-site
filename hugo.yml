@@ -68,8 +68,12 @@ menu:
         weight: 30
       - identifier: net
         name: Nets
-        url: posts/nets/
+        url: /nets/
         weight: 40
+      - identifier: quadnet
+        name: Quadnet
+        url: quadnet-and-radiosc/
+        weight: 45
       - identifier: operating
         name: Operating
         url: operating/

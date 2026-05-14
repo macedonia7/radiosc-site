@@ -2,7 +2,7 @@
 date: '2026-05-07T22:04:18-04:00'
 draft: false
 title: 'Multimode Operating Practice'
-tags: ["operating", "multimode", "digital"]
+tags: ["digital"]
 categories: ["Operating", "Multimode"]
 ---
 
