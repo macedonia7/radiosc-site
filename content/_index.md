@@ -28,7 +28,7 @@ Our mission is to maintain a robust, 24/7 infrastructure that supports the South
 
 ### Nets hosted on RadioSC
 
-#### ***Be sure to see our [Nets Page](articles/) for more information and graphics.***
+#### ***Be sure to see our [Nets Page](/nets-news/) for more information and graphics.***
 
 - Digital Dog Net: Every Monday at 5:00 PM Eastern
     

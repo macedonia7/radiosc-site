@@ -44,8 +44,8 @@ outputs:
 #    Title: "Welcome to the RadioSC Multimode System"
 #    Content: "Connect to the World Digitally & Via Local RF. Our RadioSC mission is to provide D-STAR repeaters with a gateway to multimode digital transcoding protocols for Amateur Radio Operators in the South Carolina Lowcountry, Carolina's and beyond.  We maintain the URF517 univeral reflector with hardware capabilities to transcode to and from all Amateur Radio digital modes and allow linking to Allstar and Echolink nodes and analog repeaters and the a M17 Reflector  We provide mentoring, a knowledge base, and support to all Amateur Radio Operators wishing to explore the digital modes. Select the Discord icon below to join our RadioSC Discord Server."  
 
-  mainSections:
-    - posts
+mainSections:
+  - posts
 
 security:
   enableInlineShortcodes: true
@@ -64,10 +64,10 @@ menu:
         name: Archives
         url: /archives/
         weight: 30
-#      - identifier: net
-#        name: Nets
-#        url: /nets/
-#        weight: 40
+      - identifier: net
+        name: Nets
+        url: /nets-news/
+        weight: 40
       - identifier: quadnet
         name: Quadnet
         url: quadnet-and-radiosc/
