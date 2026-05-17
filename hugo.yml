@@ -7,7 +7,8 @@ params:
   LinkFullImages: true
   ShowBreadCrumbs: true
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
+#  ShareButtons: ["discord"] # To customize which share buttons to be enabled on page
   ShowPostNavLinks: true
   ShowPageNums: true
   ShowToc: true
@@ -20,6 +21,11 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
+#socialIcons:
+#    - name: Discord
+#      title: Join RadioSC Discord community
+#      url: "https://discord.gg/cP6P4y2w6"
 
 
 #  profileMode:
