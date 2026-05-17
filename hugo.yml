@@ -15,6 +15,15 @@ params:
   defaultTheme: dark
   disableThemeToggle: false
   ShowAllPagesInArchive: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
 
 outputs:
   home:
@@ -22,6 +31,7 @@ outputs:
     - RSS
     - JSON # necessary for search
 
+  
 #socialIcons:
 #    - name: Discord
 #      title: Join RadioSC Discord community
@@ -65,10 +75,14 @@ menu:
       - identifier: tags
         name: Tags
         url: /tags/
-        weight: 20
+        weight: 10
       - identifier: archives
         name: Archives
         url: /archives/
+        weight: 20
+      - identifier: connect
+        name: Connect
+        url: /posts/connecting-to-radiosc/
         weight: 30
       - identifier: net
         name: Nets
