@@ -12,7 +12,7 @@ categories: ["Multimode", "Nets"]
   src="/images/digital-dog-net.jpeg"
   align=center
   alt="Digital Dog Net"
-  link="images/digital-dog-net.jpeg"
+  link="/images/digital-dog-net.jpeg"
   caption=""
   class="ma0 w-75"
   display=block
@@ -34,7 +34,7 @@ Join us for a quick checkin!
   src="/images/salty-dog-net.png"
   align=center
   alt="Salty Dog Net"
-  link="images/salty-dog-net.png"
+  link="/images/salty-dog-net.png"
   caption=""
   class="ma0 w-75"
   display=block
