@@ -8,7 +8,7 @@ title: 'Team'
 
 Mike White, N4OBR, Tower Site Admin (KR4CHS)
 
-Howard Germroth, WW4HG, Web site Developer/Admin
+[Howard Germroth](mailto:howzer3@gmail.com), WW4HG, Web site Developer/Admin
 
 Ray Mustafa, WA2NBG, Tower Site Admin, Testing
 
