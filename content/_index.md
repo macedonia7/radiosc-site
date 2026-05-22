@@ -20,7 +20,7 @@ draft: false
 
 ### Connecting Amateur Radio Operators in the South Carolina Lowcountry and Beyond
 
-The RadioSC Multimode System provides a high-performance digital gateway for Amateur Radio operators. By utilizing the [URF517](http://urf517.radiosc.net/) Universal Reflector, we enable seamless communication across disparate digital and analog networks.
+The RadioSC Multimode System provides a high-performance digital gateway for Amateur Radio operators. By utilizing the [URF517 Universal Reflector](http://urf517.radiosc.net/), we enable seamless communication across disparate digital and analog networks.
 
 ### Technical Mission
 
