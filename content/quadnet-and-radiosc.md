@@ -21,7 +21,7 @@ There are at least four ways to connect to RadioSC via a DMR radio with a hotspo
 1. TG 517 via the [Quadnet Rysen server](https://quadnet.ddns.net/dashboard/index.php). 
 2. TG 517 via the [Quadnet IPSC2 server](https://dmr.openquad.net/).
 3. TG 517 via TGIF.
-4. Via XLX Master connect to XLX517A. 
+4. Via XLX Master, connect to XLX517A, for detail see the post on [Discord](https://discord.com/channels/1463930198851453204/1466980434050289765/1467184678489424086)
 
 ## Connecting to RadioSC via Yaesu System Fusion (YSF) with a YSF radio and a hotspot
 
@@ -39,7 +39,7 @@ We currently have two D-STAR repeaters in South Carolina capable of linking to o
 
 1. KR5CHS, 145.120 (-), located in Awendaw, SC is fulltime linked to DCS517.  
 2. [W4GL](https://www.sumterhamradio.net/), 444.150+ PL123.0 D-Star/FM, located in Sumter, SC is linked to RadioSC for Nets.  Capable of linking to reflectors by operators.
-3. W4IR - Hilton Head Island, SC - Installation in progress.
+3. W4IAR - Hilton Head Island, SC - Installation in progress.
 4. Other groups are welcome to join.  Please contact us via [Discord](https://discord.gg/aujUBDebb) 
 
 ## Connecting to RadioSC via a M17 radio and a hotspot, et al
@@ -47,3 +47,16 @@ We currently have two D-STAR repeaters in South Carolina capable of linking to o
 1. URF517A via a M17 radio and hotspot (multiple options).
 2. URF517A with DroidStar via an Android or iPhone.
 3. [mvoice](https://github.com/n7tae/mvoice) via a Linux computer running Debian, Ubuntu, or Raspbian (PiStar devices). Requires a USB headphone with mic.
+
+## Connecting to RadioSC via P25
+
+- P25 TG 517
+
+## Connecting to RadioSC via NXDN
+
+- NXDN TG 517
+
+## Connect with Allstar and Echolink
+
+- Allstar 273771 
+- Echolink N4HEK-R

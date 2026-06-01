@@ -26,6 +26,8 @@ Read the Quadnet page and join us on our [Discord Server](https://discord.gg/auj
 - M17 URF517A
 - DMR XLX517A or Quadnet TG 517 or TGIF TG 517
 - YSF31001 - US - C4FM - QUADNT - YCS310, DG-ID 81 or FCS31081 - nn or YSF51700
+- P25 TG 517
+- NXDN TG 517
 
 ### Connect with Allstar and Echolink
 
