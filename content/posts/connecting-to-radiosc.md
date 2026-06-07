@@ -10,7 +10,7 @@ cover:
   caption: D-STAR Repeater at Awendaw, SC
 ---
 
-There are multiple ways to connect to the RadioSC system including D-STAR and FM Repeaters, Echolink, Allstar, and many of the Amateur Radio digital modes including Yaesu System Fusion, D-STAR, DMR, and M17 via hotspots and other Internet-based means. 
+There are multiple ways to connect to the RadioSC system including D-STAR and FM Repeaters, Echolink, Allstar, and many of the Amateur Radio digital modes including Yaesu System Fusion, D-STAR, DMR, M17, P25, and NXDN via hotspots and other Internet-based means. 
 
 Read the Quadnet page and join us on our [Discord Server](https://discord.gg/aujUBDebb) to learn more.
 
