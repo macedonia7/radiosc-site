@@ -24,8 +24,8 @@ Read the Quadnet page and join us on our [Discord Server](https://discord.gg/auj
  
 - D-STAR DCS517A or XRF517A
 - M17 URF517A
-- DMR XLX517A or Quadnet TG 517 or TGIF TG 517
-- YSF31001 - US - C4FM - QUADNT - YCS310, DG-ID 81 or FCS31081 - nn or YSF51700
+- DMR XLX517A (64001) or Quadnet TG 517 or TGIF TG 517
+- YSF31001 - US - C4FM - QUADNT - YCS310, DG-ID 81 or FCS31081 - nn or YSF51700 (DGID 10)
 - P25 TG 517
 - NXDN TG 517
 
@@ -33,6 +33,23 @@ Read the Quadnet page and join us on our [Discord Server](https://discord.gg/auj
 
 - Allstar 273771
 - Echolink N4HEK-R
+
+### Available Channels on the URF517 Reflector for Direct Connection
+
+Module A is the transcoding channel (also known as a module). Channel A has two hardware transcoders, one for transmit and one for receive.
+
+All modules allow direct connection by DMR, YSF, D-STAR, and M17.  Because DMR and YSF use the same codec (AMBE+2) a hardware transcoder is not needed for opeators to have QSOs between DMR and YSF.  D-STAR to D-STAR and sWhat this means is that if operators want have a QSO not on the main transcoded channel just jump on one of the other channels - no need to create a talkgroup on another server.
+
+URF Reflectors support 26 modules, A through Z.  URF517 has enabled 8 of the 26 but more or all could be enabled if needed.  
+
+Module A - Multimode - DGID 10, XLX 64001, DCS517AL
+Module B - DMR YSF Chat 1 - DGID 11 XLX 64002  
+Module C - M17 Chat, URF517  C  
+Module D - D-STAR Chat - DCS517DL ('L' is for Link)
+Module E - DMR YSF Chat 2 - DGID 14, XLX 64005  
+Module X - X - DGID 23, XLX 64024  
+Module Y - Y - DGID 24, XLX 64025  
+Module Z - Z - DGID 25, XLX 64026  
 
 For more detail on connecting see [Quadnet Digital Services and RadioSC](/quadnet-and-radiosc/).
 
