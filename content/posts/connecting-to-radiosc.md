@@ -25,7 +25,7 @@ Read the Quadnet page and join us on our [Discord Server](https://discord.gg/auj
 - D-STAR DCS517A or XRF517A
 - M17 URF517A
 - DMR XLX517A (64001) or Quadnet TG 517 or TGIF TG 517
-- YSF31001 - US - C4FM - QUADNT - YCS310, DG-ID 81 or FCS31081 - nn or YSF51700 (DGID 10)
+- YSF31001 - US - C4FM - QUADNT - YCS310, DG-ID 81 or FCS31081 - nn or YSF51700 (DG-ID 10)
 - P25 TG 517
 - NXDN TG 517
 
@@ -42,7 +42,7 @@ All modules allow direct connection by DMR, YSF, D-STAR, and M17.  Because DMR a
 
 URF Reflectors support 26 modules, A through Z.  URF517 has enabled 8 of the 26 but more or all could be enabled if needed.  
 
-Module A - Multimode - DGI-D 10, XLX 64001, DCS517AL  
+Module A - Multimode - DG-ID 10, XLX 64001, DCS517AL  
 Module B - DMR YSF Chat 1 - DG-ID 11 XLX 64002  
 Module C - M17 Chat, URF517  C  
 Module D - D-STAR Chat - DCS517DL ('L' is for Link)  
