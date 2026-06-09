@@ -42,14 +42,14 @@ All modules allow direct connection by DMR, YSF, D-STAR, and M17.  Because DMR a
 
 URF Reflectors support 26 modules, A through Z.  URF517 has enabled 8 of the 26 but more or all could be enabled if needed.  
 
-Module A - Multimode - DGID 10, XLX 64001, DCS517AL  
-Module B - DMR YSF Chat 1 - DGID 11 XLX 64002  
+Module A - Multimode - DGI-D 10, XLX 64001, DCS517AL  
+Module B - DMR YSF Chat 1 - DG-ID 11 XLX 64002  
 Module C - M17 Chat, URF517  C  
 Module D - D-STAR Chat - DCS517DL ('L' is for Link)  
-Module E - DMR YSF Chat 2 - DGID 14, XLX 64005  
-Module X - X - DGID 23, XLX 64024  
-Module Y - Y - DGID 24, XLX 64025  
-Module Z - Z - DGID 25, XLX 64026  
+Module E - DMR YSF Chat 2 - DG-ID 14, XLX 64005  
+Module X - X - DG-ID 23, XLX 64024  
+Module Y - Y - DG-ID 24, XLX 64025  
+Module Z - Z - DG-ID 25, XLX 64026  
 
 For more detail on connecting see [Quadnet Digital Services and RadioSC](/quadnet-and-radiosc/).
 
