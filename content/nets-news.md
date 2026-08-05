@@ -20,7 +20,7 @@ categories: ["Multimode", "Nets"]
   margin-right=auto
 >}}
 
-The Digital Dog Net occurs every Monday at 5pm Eastern.  Logging is va [netcontol.live](https://netcontrol.live). This is a directed Net.  We rotate about six Net Contollers.  Join us, it's a fun time to converse and try out your digital modes!
+The Digital Dog Net occurs every Monday at 5pm Eastern.  Logging is va [cq-qso.com](https://cq-qso.com). This is a directed Net.  We rotate about six Net Contollers.  Join us, it's a fun time to converse and try out your digital modes!
 
 ### Propagation Report & Lunch Net
 
@@ -43,4 +43,4 @@ Join us for a quick checkin!
 >}}
 >
 
-The Salty Dog Net occurs on Thursday's at 5pm Eastern.  Though we do log on [netcontol.live](https://netcontrol.live), this is an undirected Net so we just ragchew and collectively manage the net, sharing Net control responsibilities.  Join us, it's a fun time to converse and try out your digital modes!
+The Salty Dog Net occurs on Thursday's at 5pm Eastern.  Though we do log on [cq-qso.com](https://cq-qso.com), this is an undirected Net so we just ragchew and collectively manage the net, sharing Net control responsibilities.  Join us, it's a fun time to converse and try out your digital modes!

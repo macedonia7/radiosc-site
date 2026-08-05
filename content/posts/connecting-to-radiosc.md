@@ -17,6 +17,7 @@ Read the Quadnet page and join us on our [Discord Server](https://discord.gg/auj
 ### Connect via Repeaters
 
 - KR4CHS, Awendaw, SC D-STAR 145.120 (-)
+- W4IAR, Hilton Head Island, SC D-STAR 147.375(+)
 - W4IAR, Hilton Head Island/Bluffton Analog Repeater 442.675 (+), 100 Hz (linked for Nets)
 - W4GL, Sumter, SC 444.150+ PL123.0 D-Star/FM, (linked for Nets)
  
@@ -25,13 +26,13 @@ Read the Quadnet page and join us on our [Discord Server](https://discord.gg/auj
 - D-STAR DCS517A or XRF517A
 - M17 URF517A
 - DMR XLX517A (64001) or Quadnet TG 517 or TGIF TG 517
-- YSF31001 - US - C4FM - QUADNT - YCS310, DG-ID 81 or FCS31081 - nn or YSF51700 (DG-ID 10)
+- YSF31001 - US - C4FM - QUADNT - YCS310, DG-ID 81 or FCS31081 - nn or YSF51700 (DG-ID 10) or YSF000517 (DG-ID 10)
 - P25 TG 517
 - NXDN TG 517
 
 ### Connect with Allstar and Echolink
 
-- Allstar 273771
+- Allstar 50076
 - Echolink N4HEK-R
 
 ### Available Channels on the URF517 Reflector for Direct Connection
