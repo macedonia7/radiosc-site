@@ -34,7 +34,7 @@ Our mission is to maintain a robust, 24/7 infrastructure that supports the South
     
 - Salty Dog Net: Every Thursday at 5:00 PM Eastern
     
-- Logging via [netcontol.live](https://netcontrol.live)
+- Logging via [cq-qso.com](https://cq-qso.com)
 
 - Propagation Report & Lunch Net Checkin: Every Wednesday at 9:30 AM Eastern (no logging)
 
