@@ -47,7 +47,7 @@ Our [M17-517](https://m17-517.radiosc.net/) Reflector, installed on a VPS, runs 
 
 4. Provide mode-agnostic QSOs
 
-5. Participate Multi Mode Net(s).
+5. Participate in Multi Mode Net(s).
 
 6. Provide mentoring, a knowledge base, and support to all Amateur Radio Operators wishing to explore the digital modes. 
 
