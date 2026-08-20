@@ -38,7 +38,7 @@ There are at least four ways to connect to RadioSC via a DMR radio with a hotspo
 
 We currently have two D-STAR repeaters in South Carolina capable of linking to our RadioSC Reflector and at least one more on the way.
 
-1. KR5CHS, 145.120 (-), located in Awendaw, SC is fulltime linked to DCS517A.  
+1. KR4CHS, 145.120 (-), located in Awendaw, SC is fulltime linked to DCS517A.  
 2. [W4GL](https://www.sumterhamradio.net/), 444.150+ PL123.0 D-Star/FM, located in Sumter, SC is linked to RadioSC for Nets.  Capable of linking to reflectors by operators (linked for Nets).
 3. W4IAR - Hilton Head Island, SC - 147.375 (+) fulltime linked to DCS517A
 4. Other groups are welcome to join.  Please contact us via [Discord](https://discord.gg/aujUBDebb) 
@@ -59,16 +59,17 @@ We currently have two D-STAR repeaters in South Carolina capable of linking to o
 
 ## Connect with Allstar and Echolink
 
-- Allstar 273771 
+- Allstar 50076
 - Echolink N4HEK-R
 
 ## Connecting with via Phone and Computer Apps
 
-There are many of these.  Here are three.
+There are many of these.  Here are four.
 
 1. [QSO One](https://qso1.net) for Android and Windows (multiple modes)
 2. DroidStar (I only use this one for M17)
-3. RepeaterPhone for iOS
+3. [RepeaterPhone](https://repeaterphone.com) for Allstar on iOS
+4. [MSeven](https://mseven.wonderly.org/mseven/) - mrefd reflectors only for now so for RadioSC, [M17-517](https://m17-517.radiosc.net)
 
 ## For monitoring RadioSC TG 517 and many other TGs
 

@@ -68,34 +68,34 @@ security:
 
 menu:
   main:
-      - identifier: categories
-        name: Categories
-        url: /categories/
-        weight: 5
-      - identifier: tags
-        name: Tags
-        url: /tags/
-        weight: 10
-      - identifier: archives
-        name: Archives
-        url: /archives/
-        weight: 20
       - identifier: connect
         name: Connect
         url: /posts/connecting-to-radiosc/
-        weight: 30
+        weight: 5
       - identifier: net
         name: Nets
         url: /nets-news/
-        weight: 40
+        weight: 10
       - identifier: quadnet
         name: Quadnet
         url: quadnet-and-radiosc/
-        weight: 45
+        weight: 20
       - identifier: operating
         name: Operating
         url: operating/
-        weight: 50   
+        weight: 30  
+      - identifier: categories
+        name: Categories
+        url: /categories/
+        weight: 40
+      - identifier: tags
+        name: Tags
+        url: /tags/
+        weight: 40
+      - identifier: archives
+        name: Archives
+        url: /archives/
+        weight: 50
       - identifier: search
         name: Search
         url: search/
