@@ -25,7 +25,7 @@ There are at least four ways to connect to RadioSC via a DMR radio with a hotspo
 
 ## Connecting to RadioSC via Yaesu System Fusion (YSF) with a YSF radio and a hotspot
 
-1. YSF31001 - US - C4FM - QUADNT - YCS310, DG-ID 81 on the [YCS310 Quadnet Server](https://ycs.openquad.net/).
+1. YSF31001 - US - C4FM - QUADNT - YCS310, DG-ID TX 81, DG-ID RX 00 on the [YCS310 Quadnet Server](https://ycs.openquad.net/).
 2. FCS31081 also on the [YCS310 Quadnet Server](https://ycs.openquad.net/).
 3. YSF51700 Reflector - this method connects directly to the XLX517A.
 4. YSF00517 Reflector - this method connects directly to the XLX517A.
